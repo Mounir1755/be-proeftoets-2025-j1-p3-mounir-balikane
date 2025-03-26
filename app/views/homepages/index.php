@@ -10,11 +10,11 @@
 
             <h3><?php echo $data['title']; ?></h3>
 
-            <a href="<?= URLROOT; ?>/smartphones/index">Overzicht smartphones</a>
-            <a href="<?= URLROOT; ?>/sneakers/index">Overzicht sneakers</a>
-            <a href="<?= URLROOT; ?>/autos/index">Overzicht autos</a>
-            <a href="<?= URLROOT; ?>/zangeres/index">Overzicht zangeres</a>
-
+            <a href="<?= URLROOT; ?>/smartphones/index">Overzicht smartphones</a> |
+            <a href="<?= URLROOT; ?>/sneakers/index">Overzicht sneakers</a> |
+            <a href="<?= URLROOT; ?>/autos/index">Overzicht autos</a> |
+            <a href="<?= URLROOT; ?>/zangeres/index">Overzicht zangeres</a> |
+            <a href="<?= URLROOT; ?>/ufc/index">UFC MEN's Pound-For-Pound Ranking</a> |
 
         </div>
         

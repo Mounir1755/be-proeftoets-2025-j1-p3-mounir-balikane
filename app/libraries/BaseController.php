@@ -9,6 +9,7 @@ class BaseController
     public function model($model)
     {
         require_once APPROOT . '/models/' . $model . '.php';
+        
         return new $model();
     }
 
